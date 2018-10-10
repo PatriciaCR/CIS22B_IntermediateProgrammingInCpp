@@ -1,0 +1,186 @@
+====================================================================================================
+
+		***A R R A Y   S O R T E D   I N   A S C E N D I N G   O R D E R***
+
+====================================================================================================
+
+Position	Word                                     Position	Word
+   0)		"firstname                                 139)		number
+   1)		(for                                       140)		of
+   2)		1.Use                                      141)		of
+   3)		1024.                                      142)		of
+   4)		2-D                                        143)		of
+   5)		2.The                                      144)		of
+   6)		3.Maximum                                  145)		of
+   7)		4.Perform                                  146)		of
+   8)		5.Write                                    147)		of
+   9)		6.Write                                    148)		of
+   10)		7.Ensure                                   149)		of
+   11)		8.Provide                                  150)		of
+   12)		9.Upload                                   151)		of
+   13)		?A                                         152)		of
+   14)		?Calculate                                 153)		of
+   15)		?Determine                                 154)		of
+   16)		?Determine                                 155)		of
+   17)		?Determine                                 156)		on
+   18)		?Is                                        157)		one
+   19)		?Is                                        158)		one
+   20)		?Is                                        159)		or
+   21)		?Is                                        160)		or
+   22)		?Student                                   161)		or
+   23)		?Student                                   162)		or
+   24)		?This                                      163)		or
+   25)		?Your                                      164)		order
+   26)		?Your                                      165)		other
+   27)		?Your                                      166)		output
+   28)		Name                                       167)		output
+   29)		Name                                       168)		output
+   30)		Score                                      169)		output
+   31)		The                                        170)		output.
+   32)		Your                                       171)		parallel
+   33)		Your                                       172)		per
+   34)		above                                      173)		per
+   35)		above                                      174)		print
+   36)		accepted                                   175)		program
+   37)		an                                         176)		program
+   38)		an                                         177)		program
+   39)		and                                        178)		program
+   40)		and                                        179)		prompting
+   41)		and                                        180)		proper
+   42)		and                                        181)		proper
+   43)		and                                        182)		proper
+   44)		and                                        183)		providing
+   45)		and                                        184)		pseudo-code
+   46)		array                                      185)		same
+   47)		array                                      186)		same
+   48)		array(s)                                   187)		score
+   49)		arrays.                                    188)		score
+   50)		as                                         189)		score
+   51)		as                                         190)		score
+   52)		as                                         191)		score
+   53)		as                                         192)		score
+   54)		ask                                        193)		score
+   55)		be                                         194)		score
+   56)		be                                         195)		score
+   57)		be                                         196)		score
+   58)		be                                         197)		score
+   59)		below                                      198)		score
+   60)		below                                      199)		scores
+   61)		block                                      200)		scores
+   62)		both                                       201)		scores
+   63)		bunch                                      202)		scores
+   64)		but                                        203)		scores
+   65)		by                                         204)		scores
+   66)		choice                                     205)		scores
+   67)		comments.                                  206)		scores,
+   68)		create                                     207)		scores.
+   69)		data                                       208)		scores.
+   70)		details                                    209)		screen
+   71)		each                                       210)		section
+   72)		each                                       211)		set
+   73)		either                                     212)		set
+   74)		entire                                     213)		set
+   75)		entire                                     214)		set
+   76)		file                                       215)		set,
+   77)		file                                       216)		should
+   78)		file                                       217)		should
+   79)		file                                       218)		should
+   80)		file.                                      219)		size),
+   81)		files:                                     220)		statistic
+   82)		followed                                   221)		studen'ts
+   83)		following                                  222)		student
+   84)		follows:                                   223)		student
+   85)		for                                        224)		student
+   86)		for                                        225)		student
+   87)		for                                        226)		student
+   88)		format                                     227)		student's
+   89)		format                                     228)		student's
+   90)		format                                     229)		student's
+   91)		formatted                                  230)		student:
+   92)		formatted                                  231)		test
+   93)		from                                       232)		test
+   94)		function                                   233)		test
+   95)		function.                                  234)		than
+   96)		functions                                  235)		than
+   97)		greater                                    236)		than
+   98)		half                                       237)		the
+   99)		half                                       238)		the
+   100)		handle                                     239)		the
+   101)		header                                     240)		the
+   102)		highest                                    241)		the
+   103)		highest                                    242)		the
+   104)		highest,                                   243)		the
+   105)		i.e.                                       244)		the
+   106)		in                                         245)		the
+   107)		in                                         246)		the
+   108)		in                                         247)		the
+   109)		input                                      248)		the
+   110)		input                                      249)		the
+   111)		input                                      250)		the
+   112)		input                                      251)		the
+   113)		input                                      252)		the
+   114)		interactivity                              253)		the
+   115)		is                                         254)		the
+   116)		lastname".                                 255)		the
+   117)		line                                       256)		the
+   118)		line.                                      257)		the
+   119)		lower                                      258)		to
+   120)		lowest                                     259)		to
+   121)		lowest                                     260)		to
+   122)		lowest,                                    261)		to
+   123)		mean                                       262)		to:
+   124)		mean                                       263)		useful
+   125)		mean/average                               264)		user
+   126)		median                                     265)		user
+   127)		median                                     266)		user.
+   128)		median                                     267)		validation.
+   129)		more                                       268)		well
+   130)		more                                       269)		which
+   131)		name                                       270)		will
+   132)		name                                       271)		will
+   133)		names                                      272)		will
+   134)		names                                      273)		will
+   135)		names                                      274)		with
+   136)		needed                                     275)		with
+   137)		no                                         276)		write
+   138)		number                                     
+====================================================================================================
+
+
+Please insert the word you want me to look for:
+
+median
+
+The word median is in the position 126
+
+Do you want me to look for another word?. Type 'Yes' or 'No'
+
+Yes
+----------------------------------------------------------------------------------------------------
+
+Please insert the word you want me to look for:
+
+no
+
+The word no is in the position 137
+
+Do you want me to look for another word?. Type 'Yes' or 'No'
+
+Yea
+
+You did not insert a correct choice, Please try again
+
+Do you want me to look for another word?. Type 'Yes' or 'No'
+
+Yes
+----------------------------------------------------------------------------------------------------
+
+Please insert the word you want me to look for:
+
+mkl
+
+Sorry! I could not find mkl on the array of words :(
+
+Do you want me to look for another word?. Type 'Yes' or 'No'
+
+No
